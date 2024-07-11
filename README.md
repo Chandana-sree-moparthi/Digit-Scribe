@@ -20,7 +20,8 @@ This project demonstrates a deep learning model built with TensorFlow for recogn
 The goal of this project is to develop a robust and accurate model for handwritten digit recognition that can be deployed in various real-world scenarios.
 
 ## Advantages
-This project focuses on leveraging deep learning techniques to automate the recognition of handwritten digits. The advantages include:
+This project focuses on leveraging deep learning techniques to automate the recognition of handwritten digits. 
+The advantages include:
 - **High accuracy and efficiency in digit recognition tasks.**
 - **Scalability to handle large datasets and real-time applications.**
 
@@ -30,7 +31,8 @@ In real-world scenarios, this project can:
 - **Improve accessibility by enabling devices to interpret handwritten input more accurately.**
 
 ## Dataset
-The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) is used for training and testing. It consists of 60,000 training images and 10,000 test images of handwritten digits, each of size 28x28 pixels.
+The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) is used for training and testing. 
+It consists of 60,000 training images and 10,000 test images of handwritten digits, each of size 28x28 pixels.
 
 ## Model Architecture
 The model architecture is a sequential neural network with the following layers:
@@ -49,5 +51,7 @@ After training, the model achieves an accuracy of 97.77% on the test set.
 
  ## Contact
  **Name:** Moparthi Chandana Sree
+
  **GitHub:** [Chandana-sree-moparthi](https://github.com/Chandana-sree-moparthi)
+ 
  **Email:** chandanasreemoparthi@gmail.com
