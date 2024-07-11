@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using TensorFlow
 
-![Handwritten Digit Recognition](https://your-image-url-here.jpg)
+![Handwritten Digit Recognition](https://miro.medium.com/v2/resize:fit:372/1*AO2rIhzRYzFVQlFLx9DM9A.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -41,7 +41,7 @@ The model architecture is a sequential neural network with the following layers:
 - Dense: Fully connected layer with 128 neurons and ReLU activation function.
 - Dense: Output layer with 10 neurons (corresponding to digits 0-9) and softmax activation function.
 
-## Training_and_Evaluation:
+## Training_and_Evaluation
 The model is trained using:
 - Loss Function: Sparse Categorical Crossentropy.
 - Optimizer: Adam.
