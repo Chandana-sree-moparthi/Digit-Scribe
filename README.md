@@ -9,7 +9,7 @@
 - [Impact](Impact)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Training and Evaluation](#TrainingandEvaluation)
+- [Training and Evaluation](#Training_and_Evaluation)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -41,7 +41,7 @@ The model architecture is a sequential neural network with the following layers:
 - Dense: Fully connected layer with 128 neurons and ReLU activation function.
 - Dense: Output layer with 10 neurons (corresponding to digits 0-9) and softmax activation function.
 
-## Training and Evaluation
+## Training_and_Evaluation:
 The model is trained using:
 - Loss Function: Sparse Categorical Crossentropy.
 - Optimizer: Adam.
