@@ -10,7 +10,6 @@
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Training and Evaluation](#Training_and_Evaluation)
-- [Usage](#usage)
 - [Contact](#contact)
 
 ## Overview
