@@ -9,7 +9,7 @@
 - [Impact](Impact)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Training and Evaluation](#Training and Evaluation)
+- [Training and Evaluation](#TrainingandEvaluation)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -31,7 +31,7 @@ In real-world scenarios, this project can:
 - **Improve accessibility by enabling devices to interpret handwritten input more accurately.**
 
 ## Dataset
-The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) is used for training and testing. 
+The [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) is used for training and testing. 
 It consists of 60,000 training images and 10,000 test images of handwritten digits, each of size 28x28 pixels.
 
 ## Model Architecture
