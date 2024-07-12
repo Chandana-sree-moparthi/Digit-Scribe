@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using TensorFlow
+# Digit-Scribe
 
 ![Handwritten Digit Recognition](https://miro.medium.com/v2/resize:fit:372/1*AO2rIhzRYzFVQlFLx9DM9A.png)
 
